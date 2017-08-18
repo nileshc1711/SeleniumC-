@@ -1,0 +1,5 @@
+C:\Users\nileshc\Documents\Visual Studio 2017\Projects\SimpleWPFApp\CodedUITestProject1\bin\Debug\CodedUITestProject1.dll
+C:\Users\nileshc\Documents\Visual Studio 2017\Projects\SimpleWPFApp\CodedUITestProject1\bin\Debug\CodedUITestProject1.pdb
+C:\Users\nileshc\Documents\Visual Studio 2017\Projects\SimpleWPFApp\CodedUITestProject1\obj\Debug\CodedUITestProject1.dll
+C:\Users\nileshc\Documents\Visual Studio 2017\Projects\SimpleWPFApp\CodedUITestProject1\obj\Debug\CodedUITestProject1.pdb
+C:\Users\nileshc\Documents\Visual Studio 2017\Projects\SimpleWPFApp\CodedUITestProject1\obj\Debug\CodedUITestProject1.csprojResolveAssemblyReference.cache

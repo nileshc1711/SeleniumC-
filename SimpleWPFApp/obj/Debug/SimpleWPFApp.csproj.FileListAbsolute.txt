@@ -1,0 +1,14 @@
+c:\users\nileshc\documents\visual studio 2017\Projects\SimpleWPFApp\SimpleWPFApp\bin\Debug\SimpleWPFApp.exe.config
+c:\users\nileshc\documents\visual studio 2017\Projects\SimpleWPFApp\SimpleWPFApp\bin\Debug\SimpleWPFApp.exe
+c:\users\nileshc\documents\visual studio 2017\Projects\SimpleWPFApp\SimpleWPFApp\bin\Debug\SimpleWPFApp.pdb
+c:\users\nileshc\documents\visual studio 2017\Projects\SimpleWPFApp\SimpleWPFApp\obj\Debug\SimpleWPFApp.csprojResolveAssemblyReference.cache
+c:\users\nileshc\documents\visual studio 2017\Projects\SimpleWPFApp\SimpleWPFApp\obj\Debug\MainWindow.g.cs
+c:\users\nileshc\documents\visual studio 2017\Projects\SimpleWPFApp\SimpleWPFApp\obj\Debug\App.g.cs
+c:\users\nileshc\documents\visual studio 2017\Projects\SimpleWPFApp\SimpleWPFApp\obj\Debug\SimpleWPFApp_MarkupCompile.cache
+c:\users\nileshc\documents\visual studio 2017\Projects\SimpleWPFApp\SimpleWPFApp\obj\Debug\SimpleWPFApp_MarkupCompile.lref
+c:\users\nileshc\documents\visual studio 2017\Projects\SimpleWPFApp\SimpleWPFApp\obj\Debug\MainWindow.baml
+c:\users\nileshc\documents\visual studio 2017\Projects\SimpleWPFApp\SimpleWPFApp\obj\Debug\SimpleWPFApp.g.resources
+c:\users\nileshc\documents\visual studio 2017\Projects\SimpleWPFApp\SimpleWPFApp\obj\Debug\SimpleWPFApp.Properties.Resources.resources
+c:\users\nileshc\documents\visual studio 2017\Projects\SimpleWPFApp\SimpleWPFApp\obj\Debug\SimpleWPFApp.csproj.GenerateResource.Cache
+c:\users\nileshc\documents\visual studio 2017\Projects\SimpleWPFApp\SimpleWPFApp\obj\Debug\SimpleWPFApp.exe
+c:\users\nileshc\documents\visual studio 2017\Projects\SimpleWPFApp\SimpleWPFApp\obj\Debug\SimpleWPFApp.pdb
